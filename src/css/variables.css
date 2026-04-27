@@ -32,6 +32,10 @@
   --color-accent-500: #14b8a6;
   --color-accent-700: #0f766e;
 
+  /* Colors - Hero */
+  --color-hero-bg-start: #010101;
+  --color-hero-title: #00e5ff;
+
   /* Colors - Semantic */
   --color-success-100: #dcfce7;
   --color-success-500: #22c55e;
